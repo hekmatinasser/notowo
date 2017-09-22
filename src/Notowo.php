@@ -67,7 +67,7 @@ class Notowo {
      * @param string $number
      * @return string
      */
-	private function getWord($number) {
+	public function getWord($number) {
         if(is_numeric($number)) {
             $number = strval($number);
         }
