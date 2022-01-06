@@ -1,6 +1,6 @@
 hekmatinasser/notowo
 ======
-- This package compatible with Laravel `>=5` & `< 6.0`
+- This package compatible with Laravel `>=5` & `<= 8.0`
 
 - notowo is package for change number to word
 
